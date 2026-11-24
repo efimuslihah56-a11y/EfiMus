@@ -1,8 +1,7 @@
-import { initializeApp } from "firebase/app";
+iimport { initializeApp } from "firebase/app";
 import { getDatabase, ref, get, set, child } from "firebase/database";
-
-const firebaseConfig = {
-  apiKey: "AIzaSyAW1EgAmD77jKAiQQC4ywBiCsyo8qi432Y",
+:
+d "AIzaSyAW1EgAmD77jKAiQQC4ywBiCsyo8qi432Y",
   authDomain: "cebete-f7219.firebaseapp.com",
   databaseURL: "https://cebete-f7219-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "cebete-f7219",
